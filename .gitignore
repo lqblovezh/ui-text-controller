@@ -1,0 +1,11 @@
+node_modules
+*.log
+.*.swp
+npm-debug.*
+.direcotry
+.DS_Store
+Thumbs.db
+*~
+.svn
+.idea
+.vscode
